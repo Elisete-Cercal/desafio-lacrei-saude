@@ -1,0 +1,1 @@
+# Documentar os casos de testes do fluxo de cadastro da pessoa usuária e do fluxo de login;
